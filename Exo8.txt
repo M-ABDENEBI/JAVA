@@ -1,0 +1,2 @@
+À la ligne 5, il y a une post-incrémentation, la variable noteProgrammation retourne la valeur puis s'incrémente de 1
+Alors qu'à la ligne 13, c'est l'inverse. Il y a une incrémentation ensuite un retour de valeur. 
