@@ -1,0 +1,4 @@
+La méthode Concat n'a pas de type de retour. 
+La variable s modifié seulement à l'intérieur de la méthode Concat
+mais pas au niveau du System.out.println(s)
+Avec le mode debuggeur, on le voit très bien.
